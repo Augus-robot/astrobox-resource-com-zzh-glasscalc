@@ -1,0 +1,35 @@
+{
+  "item": {
+    "id": "com.zzh.glasscalc",
+    "restype": "quick_app",
+    "name": "流沙计算器",
+    "description": "更好看的计算器，支持开根号",
+    "preview": [
+      "media/界面预览_1.7.0.png",
+      "media/圆形按键预览_1.8.0.png",
+      "media/上架素材总览.png"
+    ],
+    "icon": "media/上架图标_1x1_1024.png",
+    "cover": "media/上架封面_3x2_1200x800.png",
+    "author": [
+      {
+        "name": "Augus240609",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.8.0",
+      "file_name": "downloads/n67_com.zzh.glasscalc.release.1.8.0.rpk",
+      "versionCode": 10
+    },
+    "xmb9p": {
+      "version": "1.8.0",
+      "file_name": "downloads/n67_com.zzh.glasscalc.release.1.8.0.rpk",
+      "versionCode": 10
+    }
+  },
+  "ext": {}
+}
