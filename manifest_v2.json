@@ -3,14 +3,15 @@
     "id": "com.zzh.glasscalc",
     "restype": "quick_app",
     "name": "流沙计算器",
-    "description": "更好看的计算器，支持开根号",
+    "description": "这是一款专为小米手环9 Pro开发的多功能计算器快应用，兼顾基础计算与函数图像绘制，抬手即可使用。\n支持常规四则运算、开根号等常用数学计算，满足日常算账、学习验算需求；特色函数图像功能，可以直接在手环屏幕上查看函数曲线，方便学生随时随地观察函数变化。\n界面适配手环小尺寸屏幕，布局简洁清晰，操作逻辑简单顺手，轻量化设计，运行流畅，不会过度占用手环资源。\n不用掏出手机，在手腕上就能快速完成计算、查看函数图像，适合学生课后练习、日常快速演算，是随身的便携数学小工具。",
     "preview": [
-      "media/界面预览_1.7.0.png",
-      "media/圆形按键预览_1.8.0.png",
-      "media/上架素材总览.png"
+      "media/上架封面_3x2_1920x1280.png",
+      "media/preview_about.png",
+      "media/preview_all.png",
+      "media/preview_both.png"
     ],
     "icon": "media/上架图标_1x1_1024.png",
-    "cover": "media/上架封面_3x2_1200x800.png",
+    "cover": "media/上架封面_3x2_1920x1280.png",
     "author": [
       {
         "name": "Augus240609",
@@ -21,14 +22,14 @@
   "links": [],
   "downloads": {
     "xmb10p": {
-      "version": "1.8.0",
-      "file_name": "downloads/n67_com.zzh.glasscalc.release.1.8.0.rpk",
-      "versionCode": 10
+      "version": "1.9.0",
+      "file_name": "downloads/n67_com.zzh.glasscalc.release.1.9.0.rpk",
+      "versionCode": 11
     },
     "xmb9p": {
-      "version": "1.8.0",
-      "file_name": "downloads/n67_com.zzh.glasscalc.release.1.8.0.rpk",
-      "versionCode": 10
+      "version": "1.9.0",
+      "file_name": "downloads/n67_com.zzh.glasscalc.release.1.9.0.rpk",
+      "versionCode": 11
     }
   },
   "ext": {}
